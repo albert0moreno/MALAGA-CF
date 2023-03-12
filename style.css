@@ -281,4 +281,8 @@ footer{
     html,body{
         height: 120%;
     }
+
+    footer{
+        height: 15%;
+    }
 }
