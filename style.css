@@ -284,5 +284,6 @@ footer{
 
     footer{
         height: 15%;
+        font-size: 4vw !important;
     }
 }
